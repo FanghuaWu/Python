@@ -1,5 +1,5 @@
-# Python
-Learn Python the Hrad Way学习笔记
+# Python3
+Learn Python3 the Hard Way学习笔记
 
 ## 2017-10-20
 - 发现作者（Zed A. Shaw）已在Github上给出LPTHW（Python3）书中所有练习的[程序](https://github.com/zedshaw/learn-python3-thw-code)，可用于对照。
